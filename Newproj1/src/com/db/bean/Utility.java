@@ -9,7 +9,7 @@ public class Utility {
 		
 		System.out.println("This is Demo utility class");
 		System.out.println("Today's Date:	"+new Date());
-		System.out.println("git update line message***********"+new Date());
+		System.out.println("git update line message>>>>>>>>>>>>>"+new Date());
 
 	}
 
